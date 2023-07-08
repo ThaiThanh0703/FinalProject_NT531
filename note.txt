@@ -1,0 +1,40 @@
+tạo multi-node spark cluster
+
+https://www.innovationmerge.com/2021/06/26/Setting-up-a-multi-node-Apache-Spark-Cluster-on-a-Laptop/?fbclid=IwAR2RC2pYk5S_OGzzqBbv9lAaEgrs0e5ijiVosoiqkqLjuT9BcwpH6A6DhL4
+
+https://data-flair.training/blogs/install-apache-spark-multi-node-cluster/
+
+
+
+report
+
+tổng quan spark
+
+https://www.youtube.com/watch?v=RRQ3kn-WA7o
+
+
+api key
+F28YP06b7IFEyNBr3gpV61hxQ
+
+api key secret
+Tf8svPuhBMdz5eIYaeKY5Hq11L4LTkHTqnf0PWARN2lCcpbKwP
+
+
+access token
+
+1605218370101841920-z4H2uyC3gvWLB8XF6ZqnKeWUCjJaPZ
+
+access token secret
+
+IfUcavndWU1yLIm4Vl3BxWsjEQFot53fEvHlcclGVBcjN
+
+
+
+spark://master:7077 
+spark-submit --master spark://master:7077 TwitterHttpClient/spark_app.py
+
+
+
+Jupyter command `jupyter-/home/lalla/twitterstreaming/TwitterHttpClient/spark_app.py` not found.
+
+
